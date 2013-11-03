@@ -1,6 +1,6 @@
 === Advanced Custom Fields: Menu Field ===
 Contributors: danieledenobili
-Tags:
+Tags: acf, menu
 Requires at least: 3.4
 Tested up to: 3.3.1
 Stable tag: trunk
@@ -25,8 +25,8 @@ This add-on can be treated as both a WP plugin and a theme include.
 2. Activate the plugin via the Plugins admin page
 
 = Include =
-1.	Copy the 'acf-menu' folder into your theme folder (can use sub folders). You can place the folder anywhere inside the 'wp-content' directory
-2.	Edit your functions.php file and add the code below (Make sure the path is correct to include the acf-menu.php file)
+1. Copy the 'acf-menu' folder into your theme folder (can use sub folders). You can place the folder anywhere inside the 'wp-content' directory
+2. Edit your functions.php file and add the code below (Make sure the path is correct to include the acf-menu.php file)
 
 `
 include_once('acf-menu/acf-menu.php');

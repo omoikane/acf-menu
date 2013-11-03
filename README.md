@@ -15,6 +15,10 @@ This add-on will work with:
 * version 4 and up
 * version 3 and bellow
 
+### Requirements
+
+This add-on is only supported on PHP 5.3 and up.
+
 ### Installation
 
 This add-on can be treated as both a WP plugin and a theme include.
